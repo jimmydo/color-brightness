@@ -1,0 +1,4 @@
+[
+    {"keys": ["ctrl+shift+,"], "command": "color_brightness", "args": {"amount": "-1"}},
+    {"keys": ["ctrl+shift+."], "command": "color_brightness", "args": {"amount": "1"}}
+]
